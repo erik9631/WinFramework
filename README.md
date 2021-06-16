@@ -1,7 +1,7 @@
 # Lii Framework
 Lii framework is an open source framework which allows you to create interactive desktop applications on windows platform with ease.
 
-#Documentation
+## Documentation
 You can access an up to date version of the documentation here:
 [Doxygen generated documentation](https://erik9631.github.io/WinFramework/html/index.html)
 
